@@ -20,4 +20,12 @@ func main() {
 	middleName := "Putera"
 	fmt.Println(middleName)
 
+	var (
+		firstName = "Gilang"
+		lastName2 = "Mahardhika"
+	)
+
+	fmt.Println(firstName)
+	fmt.Println(lastName2)
+
 }
