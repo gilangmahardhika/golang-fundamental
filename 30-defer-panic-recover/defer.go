@@ -14,6 +14,7 @@ func runApp(value int) {
 	logging()
 }
 
+
 func main() {
 	runApp(0)
 }
